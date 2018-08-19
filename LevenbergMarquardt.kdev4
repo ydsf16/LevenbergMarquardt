@@ -1,0 +1,4 @@
+[Project]
+Name=LevenbergMarquardt
+Manager=KDevCMakeManager
+VersionControl=
