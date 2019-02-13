@@ -1,2 +1,4 @@
-# LevenbergMarquardt 实现，详细介绍，请参考：https://zhuanlan.zhihu.com/p/42415718
+# LevenbergMarquardt
+## A simple implementation of the Levenberg Marquardt algorithm.
 
+For details, please refer to：https://zhuanlan.zhihu.com/p/42415718
